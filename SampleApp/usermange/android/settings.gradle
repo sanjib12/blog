@@ -1,0 +1,3 @@
+rootProject.name = 'usermange'
+
+include ':app'

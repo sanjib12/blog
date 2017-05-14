@@ -1,0 +1,21 @@
+{
+  "name": "sampleappserver",
+  "version": "1.0.0",
+  "description": "A server App for user management.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjib Kumar Nath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "jsonwebtoken": "^7.4.0",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0",
+    "promise-mysql": "^3.0.1",
+    "q": "^1.5.0"
+  }
+}
